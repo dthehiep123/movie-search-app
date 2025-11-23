@@ -1,4 +1,4 @@
-import type { Movie } from "../../utils/constants";
+import type { Movie } from "../../types/movie.type";
 
 import {
     BASE_IMG_URL
