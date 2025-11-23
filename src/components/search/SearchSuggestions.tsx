@@ -1,4 +1,4 @@
-import type { MovieSearch } from "../../utils/constants";
+import type { MovieSearch } from "../../types/movie.type";
 
 type MovieSuggestionProps = {
     movieList: MovieSearch[];
