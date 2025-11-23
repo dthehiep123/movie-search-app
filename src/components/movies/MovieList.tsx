@@ -1,6 +1,6 @@
 import MovieCard from "./MovieCard";
 
-import type { Movie } from "../../utils/constants";
+import type { Movie } from "../../types/movie.type";
 
 type MovieListProp = {
     movies: Movie []
